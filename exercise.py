@@ -1,7 +1,7 @@
 import pandas as pd
 import random
 
-times = input("Number of times: ")
+times = input("Number of questions: ")
 
 def accents_conv(text):
     accents = {
@@ -21,7 +21,7 @@ def accents_conv(text):
     return ''.join(characters)
 
 for time in range(int(times)):
-    df_dict = pd.read_csv("ir_dict.csv", sep = ";", encoding = "latin-1")
+    df_dict = pd.read_csv("ir_verbs.csv", sep = ";", encoding = "utf-8")
 
     # Choose category
     scores_dict = df_dict["score"]
@@ -40,34 +40,24 @@ for time in range(int(times)):
     # Chose position
     pos = random.choices(category)[0]
 
-    word, meaning, translation, _ = df_dict.iloc[pos]
+    ir_word, eng_word, prev_score = df_dict.iloc[pos]
 
-    df_translations = df_dict[(df_dict["eng"] == word) & (df_dict["meaning"] == meaning)]
-    translations = df_translations["ir"].values
-
-    print("{}. {} (meaning: {})".format(time + 1, word, meaning))
-    answer = input()
-
+    print("{}. {}".format(time + 1, eng_word))
+    answer = input("Translation: ")
+    print("Actual translation: {}".format(ir_word))
     answer = accents_conv(answer)
 
-    #print(answer)
-    print(translation)
-
-    prev_score = df_dict["score"].iloc[pos]
-
-    if (answer in translations) and (prev_score != 10):
-        for pos in df_translations.index:
-            df_dict.loc[pos, "score"] += 1
-    elif (answer not in translations) and (prev_score != 0):
-        for pos in df_translations.index:
-            df_dict.loc[pos, "score"] -= 1
+    if (answer == ir_word) and (prev_score != 10):
+        df_dict.loc[pos, "score"] += 1
+    elif (answer == ir_word) and (prev_score != 0):
+        df_dict.loc[pos, "score"] -= 1
 
     print("\nprevious score: {}".format(prev_score))
     print("new score: {}\n".format(df_dict["score"].iloc[pos]))
 
-    df_dict.to_csv("ir_dict.csv", index = False, sep = ";", encoding = "latin-1")
+    df_dict.to_csv("ir_verbs.csv", index = False, sep = ";", encoding = "utf-8")
 
-overall_score = df_dict.iloc[df_dict[["eng", "meaning"]].drop_duplicates().index]["score"].mean()
+progress = df_dict["score"].mean()
 
-print("overall score: {:.4f} %".format(overall_score * 10, 4))
+print("Total progress: {:.4f} %".format(progress * 10, 4))
 input("Press 'Enter' to close")
