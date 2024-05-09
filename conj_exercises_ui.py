@@ -85,7 +85,12 @@ class VerbConjugationApp(tk.Tk):
         translation = df_dict[df_dict["ir"] == verb]["eng"].values[0]
 
         with open(f"conjugations/{self.file_verb}.json", "r") as f:
-            self.verb_conj = json.load(f)["present"]
+            verb_d = json.load(f)
+            x = dict()
+            x["Present"] = verb_d["present"] # tenses
+            x["Past"] = verb_d["past"]
+            
+            self.verb_conj = x
 
         test_choice = conj_choice(self.verb_conj).split("-")
         self.conj_test = test_choice[:-1]
