@@ -28,7 +28,7 @@ def find_terms(origin, target):
     return term, translation
 
 def start_exercise():
-    times = input("Number of questions:")
+    times = input("Number of questions: ")
     print()
     for time in range(int(times)):
         term, translation = find_terms(origin, target)
