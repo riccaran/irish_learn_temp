@@ -1,8 +1,8 @@
 ir;eng;used
 abair;to say;1
 achainigh;to entreat (to request earnestly);0
-achoimrigh;to recap/recapitulate/summarise;1
-adhair;to adore/worship;1
+achoimrigh;to recap/recapitulate/summarise;0
+adhair;to adore/worship;0
 adharcáil;to gore;0
 adhlaic;to bury;0
 admhaigh;to admit;0
@@ -16,57 +16,57 @@ aimsigh;to hit/locate;0
 ainmnigh;to assign/name;0
 airigh;to receive/calculate;0
 aisghair;to repeal;0
-aisig;to restore;1
+aisig;to restore;0
 aistarraing;to retract;0
-aistrigh;to change;1
+aistrigh;to change;0
 aisíoc;to refund/reimburse/repay;0
-aithin;to recognise;1
-áitigh;to argue;1
+aithin;to recognise;0
+áitigh;to argue;0
 áitrigh;to inhabit;0
-aithris;to recite;1
+aithris;to recite;0
 allmhairigh;to import;0
 alp;to devour/gobble/scoff;1
 anailísigh;to analyze;1
 anluchtaigh;to overload;0
-análaigh;to respire/aspirate/breathe;1
-aontaigh;to concour/agree;1
-ardaigh;to ascend/elevate/heighten/hoist/lift;1
-aslonnaigh;to evacuate;1
-athaimsigh;to relocate;1
+análaigh;to respire/aspirate/breathe;0
+aontaigh;to concour/agree;0
+ardaigh;to ascend/elevate/heighten/hoist/lift;0
+aslonnaigh;to evacuate;0
+athaimsigh;to relocate;0
 athaontaigh;to reunite;0
-athbheoigh;to resuscitate/revive;1
-athbhreithnigh;to review;1
+athbheoigh;to resuscitate/revive;0
+athbhreithnigh;to review;0
 athbhunaigh;to re-establish, reconstitute;0
 athchas;to rewind (as in a tape);0
 athcheartaigh;to revise;0
-athchomhairligh;to discourage;1
+athchomhairligh;to discourage;0
 athchóirigh;to alter/recondition/refurbish/renovate/restore(building)/revamp/upgrade (house);0
 athchúrsáil;to recycle;1
 athdhearbhaigh;to reassure;0
 athdheisigh;to refurbish;0
-athdhéan;to redo;1
+athdhéan;to redo;0
 atheagraigh;to redeploy (resources);0
-athghair;to recall;1
+athghair;to recall;0
 athghnóthaigh;to regain;0
-athlonnaigh;to relocate;1
+athlonnaigh;to relocate;0
 athlíon;to refill/replenish (glass);0
 athnuaigh;to rejuvenate/renew;0
-athobair;to repeat work;1
+athobair;to repeat work;0
 athoil;to retrain (worker);0
 athphlandáil;to transplant;0
 athraigh;to alter/change/vary;0
 athroinn;to redeploy;0
-athscag;to refine;1
+athscag;to refine;0
 athsheol;to redirect (mail);0
-athsholáthair;to replace;1
+athsholáthair;to replace;0
 athshreangaigh;to rewire;0
 atosaigh;to renew/resume;0
 atreoraigh;to divert;0
 atáirg;to reproduce;0
-atóg;to reconstruct (building);1
+atóg;to reconstruct (building);0
 babhtáil;to barter;0
 bac;to hinder/impede/thwart;0
-bagair;to threaten;1
+bagair;to threaten;0
 bailigh;to assemble/collect/gather;1
 bain;to harvest/mow/reap/dig up (potatoes);0
 baist;to baptise/christen;0
@@ -75,13 +75,13 @@ basc;to mangle/maul;0
 batráil;to batter;0
 bealaigh;to grease/lubricate;0
 beannaigh;to bless;0
-bearnaigh;to breach;1
-bearr;to prune/shave;1
+bearnaigh;to breach;0
+bearr;to prune/shave;0
 beartaigh;to contrive/scheme/wield (sword);0
-beir;to grab;1
+beir;to grab;0
 beirigh;to boil;1
 beoigh;to liven-up;0
-bioraigh;to sharpen;1
+bioraigh;to sharpen;0
 bladair;to cajole;0
 bodhraigh;to deafen;0
 bog;to budge/maneuver/relax(muscle)/soften;0
@@ -92,7 +92,7 @@ breithnigh;to evaluate(factor);0
 breoigh;to glow;0
 bris;to break/fail(candidate)/overthrow/bring-down(government)/shatter - more;1
 broid;to goad/nudge/prod;0
-bronn;to donate;1
+bronn;to donate;0
 brostaigh;to hasten/precipitate;0
 bruith;to bake;1
 bréag;to lie/delude;1
@@ -105,10 +105,10 @@ buain;to reap;0
 buair;to annoy;1
 bunaigh;to establish/found/institute;0
 bácáil;to bake;1
-báigh;to drench/drown/plunge/sink(ship)/soak/swamp;1
-bánaigh;to bleach(linen)/evacuate(place);1
+báigh;to drench/drown/plunge/sink(ship)/soak/swamp;0
+bánaigh;to bleach(linen)/evacuate(place);0
 bí;to be;1
-cabhraigh;to assist;1
+cabhraigh;to assist;0
 cailg;to bite;1
 caill;to forfeit(lose)/miss/shed;1
 cairt;to peel/tan/encrust;0
@@ -120,28 +120,28 @@ caoch;to daze/overwhelming(victory vi)/resounding(victory vi);0
 caoin;to cry (vi)/mourne (vi)/weep(vi);1
 caolaigh;to dilute/constrict;0
 caomhnaigh;to conserve/preserve (keep safe);0
-carn;to accumulate;1
+carn;to accumulate;0
 cas;to twirl;0
-ceadaigh;to allow/approve/let(practise/claim/goal);1
+ceadaigh;to allow/approve/let(practise/claim/goal);0
 cealaigh;to annul/cancel/delete;0
 cealg;to deceive;0
-ceangail;to bind/fasten/hitch/teather;1
+ceangail;to bind/fasten/hitch/teather;0
 ceannaigh;to buy/purchase;1
 ceap;to appoint/designate(to office)/devise;1
 ceartaigh;to adjust(clock/scales/compass)/rectify(error)/rebuke/redress;0
-ceiliúir;to celebrate(vi)/vanish;1
+ceiliúir;to celebrate(vi)/vanish;0
 ceistigh;to interrogate/query/question/quiz;1
-ciallaigh;to interpret;1
-ciap;to annoy/besiege/harass/hound/plague/tease;1
+ciallaigh;to interpret;0
+ciap;to annoy/besiege/harass/hound/plague/tease;0
 ciceáil;to kick;1
-cigil;to tickle;1
-cinntigh;to assure/confirm/ensure;1
+cigil;to tickle;0
+cinntigh;to assure/confirm/ensure;0
 cionroinn;to allocate/distribute;0
 ciorclaigh;to encircle;0
 ciorraigh;to hack/maim/mangle;0
 ciúnaigh;to becalm/hush/quell/sooth;0
 clamhair;to maul;0
-claochlaigh;to transform;1
+claochlaigh;to transform;0
 claon;to incline/perverse/tilt/veer;0
 cleacht;to ply(a trade)/rehearse;0
 clip;to prick/tease/torment/wear out;0
@@ -151,20 +151,20 @@ cloígh;to overpower/digest/overwhelm(enemy)/repress/subdue/sap;0
 cluimhrigh;to preen;0
 cluin;to hear/overhear;1
 clutharaigh;to muffle;0
-cláraigh;to enroll;1
+cláraigh;to enroll;0
 clóigh;to overpower/digest/overwhelm(enemy)/repress/subdue/sap;0
-clúdaigh;to cover;1
+clúdaigh;to cover;0
 cnag;to bash/crunch/knock/snap(sound);0
 cnaígh;to gnaw;0
-cneasaigh;to heal;1
+cneasaigh;to heal;0
 cniotáil;to knit;0
 codail;to sleep(vi);1
-cogain;to chew(vi);1
+cogain;to chew(vi);0
 coigeartaigh;to update;0
-coigil;to economise/save;1
+coigil;to economise/save;0
 coigistigh;to confiscate;0
 coill;to castrate/geld/spay;0
-coilínigh;to colonize;1
+coilínigh;to colonize;0
 coimeád;to hold/keep/maintain;0
 coimhéad;to observe;1
 coimrigh;to sum-up;0
@@ -175,10 +175,10 @@ coip;to ferment/whisk;0
 coir;to tire, exhaust;0
 coisc;to deter/obstruct(block)/preclude/prevent/prohibit/stave-off(attack);0
 coisric;to bless;0
-comhaill;to fulfil;1
+comhaill;to fulfil;0
 comhair;to count/reckon;0
-comhairligh;to advise;1
-comharthaigh;to denote/suggest;1
+comhairligh;to advise;0
+comharthaigh;to denote/suggest;0
 comhbhailigh;to aggregate;0
 comhbhrúigh;to compress;0
 comhdhearbhaigh;to corroborate;0
@@ -187,7 +187,7 @@ comhfhadaigh;to justify(computing);0
 comhfhortaigh;to console, comfort;0
 comhfhreagair;to correspond;0
 comhlíon;to discharge/fulfil/observe/perform(duties)/serve;0
-comhordaigh;to coordinate;1
+comhordaigh;to coordinate;0
 comhréitigh;to conciliate/harmonise (of texts);0
 comhtharlaigh;to coincide;0
 comhtháthaigh;to integrate;0
@@ -195,7 +195,7 @@ conlaigh;to glean;0
 corn;to bale/wrap-up;0
 corpraigh;to incorporate;0
 corraigh;to agitate/affect/budge/disturb/excite/stir(vi);0
-cosain;to defend/protect/safeguard;1
+cosain;to defend/protect/safeguard;0
 coscair;to hack/thaw;0
 cothromaigh;to balance/equalize (sport);0
 crap;to crumple/shrink(vi);0
@@ -228,7 +228,7 @@ cuntais;to count/reckon;0
 cáiligh;to qualify;0
 cáin;to condemn/criticize/fine/levy/penalize/slam/tax;0
 céas;to crucify/hound/persecute/torture;0
-cíor;to comb/scour(search);1
+cíor;to comb/scour(search);0
 cócaráil;to cook;1
 cóimeáil;to assemble;0
 cóineartaigh;to strengthen, confirm;0
@@ -241,16 +241,16 @@ cúitigh;to compensate;0
 cúngaigh;to narrow;0
 cúrsáil;to cruise;0
 daingnigh;to fortify/strengthen;0
-dall;to blind/darken/dazzle/mesmerize;1
+dall;to blind/darken/dazzle/mesmerize;0
 dallraigh;to dazzle;0
 damnaigh;to damn;0
-dathaigh;to paint;1
+dathaigh;to paint;0
 deachtaigh;to dictate;0
 dealaigh;to part/separate/subtract (maths);0
 dearbhaigh;to assert/assure/declare;0
 dearc;to consider/look;0
 dearg;to blush/kindle/redden;0
-deifrigh;to hasten/hurry;1
+deifrigh;to hasten/hurry;0
 deighil;to divide;0
 deimhnigh;to check/verify;0
 deisigh;to fix;0
@@ -266,7 +266,7 @@ dreasaigh;to incite;0
 driog;to distil;0
 droimscríobh;to endorse;0
 druid;to shut;0
-dubhaigh;to blacken;1
+dubhaigh;to blacken;0
 dáil;to distribute;0
 déan;to do, to make;1
 dí-armáil;to disarm;0
@@ -318,13 +318,13 @@ fair;to watch;1
 fairsingigh;to broaden/expand/widen;0
 fan;to wait;1
 faobhraigh;to sharpen/whet;0
-feabhsaigh;to improve/recuperate;1
-feall;to betray/fail;1
+feabhsaigh;to improve/recuperate;0
+feall;to betray/fail;0
 feic;to see;1
 feidhmigh;to enforce;0
 feistigh;to tie up (boat)/trim (with);0
 feoigh;to decay;0
-fiach;to chase/hunt;1
+fiach;to chase/hunt;0
 fiafraigh;to ask;1
 fiar;to slant/swerve/tilt/veer;0
 figh;to weave;0
@@ -332,7 +332,7 @@ fill;to bend/fold/return;0
 fionn;to ascertain/discover/invent;0
 fiosraigh;to inquire/investigate;0
 fiuch;to boil;1
-fliuch;to drench/moisten/wet;1
+fliuch;to drench/moisten/wet;0
 foghlaim;to learn/;1
 foilsigh;to disclose/publish/reveal;0
 folaigh;to conceal;0
@@ -349,18 +349,18 @@ freastail;to attend;1
 frithchaith;to reflect;0
 fuadaigh;to hijack/kidnap/snatch;0
 fuaigh;to sew;0
-fuaimnigh;to pronounce;1
+fuaimnigh;to pronounce;0
 fuascail;to release/deliver (from danger);0
-fuathaigh;to hate;1
+fuathaigh;to hate;0
 fuin;to cook/roast/knead;0
 fulaing;to suffer;0
 fág;to leave;1
 fáiltigh;to receive/rejoice;0
 fáisc;to tighten/wring;0
-fálaigh;to enclose;1
+fálaigh;to enclose;0
 fás;to grow;1
 féach;to look;1
-fíoraigh;to verify;1
+fíoraigh;to verify;0
 fógair;to announce;0
 fóir;to watch;1
 gabh;to take;1
@@ -384,20 +384,20 @@ glónraigh;to glaze;0
 gnáthaigh;to haunt;0
 gníomhachtaigh;to activate;0
 gníomhaigh;to activate/perform/act;0
-gnóthaigh;to earn;1
+gnóthaigh;to earn;0
 gob;to peck;0
 goid;to steal;1
 goil;to weep;0
 gor;to hatch;0
 gortaigh;to hurt;1
 gread;to batter/swish/wallop;0
-greamaigh;to fasten;1
+greamaigh;to fasten;0
 grean;to engrave/grit;0
 greasáil;to beat/drub/trounce;0
 grinnléigh;to peruse;0
-griog;to annoy/excite/incite/irritate/rile/tease;1
+griog;to annoy/excite/incite/irritate/rile/tease;0
 griosaigh;to fire/incite/stimulate/inspire;0
-gráinigh;to hate;1
+gráinigh;to hate;0
 gráinseáil;to nibble;0
 gríosc;to broil;0
 grúdaigh;to brew;0
@@ -409,7 +409,7 @@ hiopnóisigh;to hypnotize;0
 iarr;to ask;1
 imigh;to go;1
 imir;to play;1
-impigh;to beg;1
+impigh;to beg;0
 imscaoil;to decipher;0
 imtheorannaigh;to intern;0
 inbhéartaigh;to invert;0
@@ -422,21 +422,21 @@ insteall;to inject;0
 íoc;to contribute/remit (money);0
 iolraigh;to multiply;0
 iomlánaigh;to integrate;0
-iompaigh;to turn;1
+iompaigh;to turn;0
 iompair;to carry;1
 iompórtáil;to import;1
 ionchorpraigh;to incorporate;0
 ionchúisigh;to prosecute;0
 ionfhabhtaigh;to infect;0
 ionramháil;to maneuver/manipulate;0
-ionsaigh;to attack;1
+ionsaigh;to attack;0
 ionsúigh;to absorb;0
 íoslaghdaigh;to minimise;0
 íoslódáil;to download;0
 íosmhéadaigh;to minimise (reduce);0
 ith;to eat;1
 lagaigh;to dilute/weaken;0
-laghdhdaigh;to decrease/diminish/dwindle/lessen/lighten/reduce;1
+laghdhdaigh;to decrease/diminish/dwindle/lessen/lighten/reduce;0
 lamháil;to allow;0
 lansaigh;to lance;0
 las;to light;1
@@ -450,16 +450,16 @@ leath;to diminish/divide;0
 leathnaigh;to broaden/expand/extend/widen;0
 leigheas;to cure/heal/remedy/undo;0
 leithlisigh;to isolate;0
-leomh;to allow/dare;1
+leomh;to allow/dare;0
 leáigh;to melt;0
 lig;to allow/release;1
-ligh;to lick;1
+ligh;to lick;0
 liostaigh;to itemize/list;0
 liostáil;to enlist;0
 lobh;to decay/decompose/fester/rot;0
 loc;to enclose/pluck;0
 lochtaigh;to criticize/fault;0
-loit;to hurt/injure/damage;1
+loit;to hurt/injure/damage;0
 lom;to mow/scuff/shear;0
 lonnaigh;to settle;0
 lorg;to trace;0
@@ -467,7 +467,7 @@ luacháil;to evaluate;0
 luaigh;to mention;0
 luathaigh;to accelerate;0
 luchtaigh;to charge/fill/load/fill;0
-luigh;to lie (rest)/settle (dust)/to comply with (with le);1
+luigh;to lie (rest)/settle (dust)/to comply with (with le);0
 láidrigh;to toughen;0
 láimhsigh;to manipulate;0
 láraigh;to centralize;0
@@ -477,12 +477,12 @@ léim;to jump;1
 léirigh;to demonstrate/depict/elucidate/illustrate/indicate/portray;0
 léirsigh;to demonstrate;0
 líomhain;to allege;0
-líon;to fill;1
-lódáil;to load;1
+líon;to fill;0
+lódáil;to load;0
 lúb;to loop;0
 machnaigh;to meditate/muse;0
 maidhm;to burst/detonate;0
-mair;to live/remain/survive;1
+mair;to live/remain/survive;0
 maisigh;to decorate;0
 maistrigh;to churn (agriculture);0
 maith;to forgive/pardon;0
@@ -506,14 +506,14 @@ milsigh;to sweeten;1
 mionaigh;to crumble/mince;0
 mionbhrúigh;to crush/crumble;0
 mionscrúdaigh;to scan/sift/scan;0
-modhnaigh;to modify;1
+modhnaigh;to modify;0
 moilligh;to delay/linger;0
-mol;to praise;1
+mol;to praise;0
 monaraigh;to manufacture;0
 morg;to decompose;0
 muirnigh;to cherish/cuddle/fondle;0
 mungail;to munch;0
-méadaigh;to increase;1
+méadaigh;to increase;0
 méaraigh;to baffle/confound/mystify/perplex;0
 mínigh;to smooth/make gentle/explain;0
 múch;to asphyxiate/extinguish/muffle/smother/stifle/suffocate;0
@@ -535,7 +535,7 @@ oirnigh;to cut in bits/crush/fragment;0
 ollchóirigh;to overhaul;0
 onnmhairigh;to export;1
 onóraigh;to honor;0
-ordaigh;to order;1
+ordaigh;to order;0
 ornáidigh;to ornament/embellish;0
 oscail;to open;1
 pacáil;to pack;1
@@ -546,7 +546,7 @@ plac;to bang/eat/gobble/slam;0
 pléadáil;to plead;0
 pléasc;to bang/burst/erupt/explode;0
 plúch;to asphyxiate/smother/stifle/suffocate;0
-poibligh;to make public/publish;1
+poibligh;to make public/publish;0
 poll;to bore/penetrate/perforate/pierce/puncture;0
 poncloisc;to cauterize;0
 potbhiathaigh;to spoon-feed;0
@@ -563,8 +563,8 @@ reoigh;to freeze;0
 riar;to administer/dispense/distribute/manage/mete/provide;0
 righ;to control/stretch;0
 rith;to run;1
-robáil;to rob;1
-roghnaigh;to pick/select;1
+robáil;to rob;0
+roghnaigh;to pick/select;0
 roinn;to divide;0
 rois;to unravel;0
 rop;to dash/stab;0
@@ -581,12 +581,12 @@ réasúnaigh;to rationalize;0
 réitigh;to adjust/arrange/clear/elucidate/level/smooth/solve;0
 ríomh;to calculate/count/reckon;0
 ríomhairigh;to computerize;0
-rómhair;to dig;1
+rómhair;to dig;0
 rúisc;to strip/shell/poke/trounce;0
 sábh;to saw;0
 sábháil;to save;1
 sádráil;to exceed/violate (as in history)/outclass (as in sport);0
-sáigh;to stab;1
+sáigh;to stab;0
 sáinnigh;to beset/hem;0
 sáraigh;to violate (law)/get beyond/harass/weary;0
 sásaigh;to satisfy;0
@@ -606,7 +606,7 @@ saothraigh;to cultivate/farm/make/till;0
 scag;to filter/refine/sift;0
 scaip;to scatter;0
 scaird;to gush/jet/pour/splatter/spray/spurt;0
-scairt;to shout;1
+scairt;to shout;0
 scall;to poach/scald;0
 scan;to scan;1
 scanraigh;to appal/frighten/overawe/scare/terrify;0
@@ -623,7 +623,7 @@ scoir;to adjourn/detach/disband/disconnect;0
 scoith;to wean;0
 scor;to slash;0
 scrabh;to scrape;0
-scrios;to destroy/erase;1
+scrios;to destroy/erase;0
 scrábáil;to scrawl/scribble/squiggle;0
 scréach;to screech;0
 scríobh;to write;1
@@ -676,7 +676,7 @@ srac;to drag/extort/strive;0
 sraon;to deflect;0
 sreangaigh;to wire;0
 srian;to curb/restrain;0
-sroich;to arrive/reach;1
+sroich;to arrive/reach;0
 sruthlaigh;to rinse;0
 stad;to stop;1
 steall;to dash/spatter/squirt;0
@@ -686,14 +686,14 @@ stoith;to extract/uproot;0
 streachail;to pull/drag/struggle;0
 stócáil;to stoke;0
 suaimhnigh;to placate/quieten;0
-suaith;to massage/shuffle;1
+suaith;to massage/shuffle;0
 suigh;to sit;1
 suiteáil;to install;0
 síl;to think/intend;0
 síolraigh;to breed;0
 sóinseáil;to change;0
 súigh;to suck/absorb;0
-tabhaigh;to deserve;1
+tabhaigh;to deserve;0
 tabhair;to give;1
 tacht;to choke/strangle/throttle;0
 tairngir;to foretell/prophesy;0
@@ -743,7 +743,7 @@ tuairteáil;to collide/smash;0
 tuar;to forecast/foresee/foreshadow/predict;0
 tuaslaig;to dissolve;0
 tuig;to comprehend/realize/understand;0
-tuill;to deserve/earn;1
+tuill;to deserve/earn;0
 tuirling;to descend;0
 tum;to submerge;0
 táblaigh;to tabulate;0
